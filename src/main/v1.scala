@@ -6,6 +6,7 @@ object v1 {
   def main (args: Array[String]) : Unit = {
 
   print("Ganpathi Bappa Moriya")
+    print ("Mangal Moorthi Moriya")
 
   /*  val spark = SparkSession.builder()
       .master("local")
